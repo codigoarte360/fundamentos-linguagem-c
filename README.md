@@ -16,3 +16,23 @@ Esse repositório é uma coleção de códigos que demonstram os fundamentos bá
 - Estruturas (struct)
 - Ponteiros
 - Manipulação de arquivos
+
+## Compilação
+
+### Linux
+
+Para compilar, use o gcc, como no exemplo abaixo:
+
+```bash
+gcc main.c -o main
+```
+
+Para executar:
+
+```bash
+./main
+```
+
+### Windows
+
+Algumas ferramentas como MinGW e MSYS2 incluem compiladores para C no Windows.
