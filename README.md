@@ -1,6 +1,6 @@
 # Fundamentos da Linguagem C
 
-Esse repositório é uma coleção de códigos que demonstram os fundamentos básicos da linguagem C. Inclui exemplos como:
+Esse repositório reúne uma coleção de códigos que demonstram os fundamentos básicos da linguagem C. Inclui exemplos como:
 
 - Hello World
 - Variáveis
